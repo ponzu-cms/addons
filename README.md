@@ -13,3 +13,8 @@ Include references to content types from within another content type
 Schedule Facebook Posts from content in your Ponzu App
 - source: https://github.com/bosssauce/fbscheduler
 - author: [Boss Sauce Creative](https://bosssauce.it/)
+
+### Frontend
+Create a web frontend for your CMS (wraps gorilla/mux & exports shared router attached to the default HTTP Serve Mux)
+- source: https://github.com/bosssauce/frontend
+- author: [Boss Sauce Creative](https://bosssauce.it/)
