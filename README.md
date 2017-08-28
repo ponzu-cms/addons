@@ -14,6 +14,11 @@ Schedule Facebook Posts from content in your Ponzu App
 - source: https://github.com/bosssauce/fbscheduler
 - author: [Boss Sauce Creative](https://bosssauce.it/)
 
+### Access
+Create and validate token-based access grants in a request's http.Header or http.Cookie
+- source: https://github.com/bosssauce/access
+- author: [Boss Sauce Creative](https://bosssauce.it/)
+
 ### Frontend
 Create a web frontend for your CMS (wraps gorilla/mux & exports shared router attached to the default HTTP Serve Mux)
 - source: https://github.com/bosssauce/frontend
