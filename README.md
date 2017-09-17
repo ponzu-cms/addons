@@ -12,12 +12,12 @@ SimpleMDE Markdown Editor addon for Ponzu CMS
 ### Access
 Create and validate token-based access grants in a request's http.Header or http.Cookie
 - source: https://github.com/bosssauce/access
-- author: [Boss Sauce Creative](https://bosssauce.it/)
+- author: [@nilslice](https://github.com/nilslice)
 
 ### Reference
 Include references to content types from within another content type
 - source: https://github.com/bosssauce/reference
-- author: [Boss Sauce Creative](https://bosssauce.it/)
+- author: [@nilslice](https://github.com/nilslice)
 
 ### Facebook Scheduler
 Schedule Facebook Posts from content in your Ponzu App
